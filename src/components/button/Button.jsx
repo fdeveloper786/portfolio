@@ -1,7 +1,7 @@
 function Button({text="",btnType="",link=""}) {
     return (
         <>
-              <a href={link} target="_blank" className={`btn ${btnType}`}>{text}</a>
+              <a href={link} target="_blank" rel="noreferrer" className={`btn ${btnType}`}>{text}</a>
         </>
     )
 }
