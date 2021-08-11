@@ -46,6 +46,7 @@ function Introduction() {
               <Button
                 link="https://docs.google.com/document/d/1Hr04Ytyin5pYS4ooIjeBsaHZ_hJAd5Kl/edit?usp=sharing&ouid=108218941780456205301&rtpof=true&sd=true"
                 btnType="btn_primary"
+                rel="noreferrer" 
                 text="Resume"
               />
             </div>
